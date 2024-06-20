@@ -42,6 +42,8 @@ The focus areas for this workshop include, but are not limited to:
   - High-performance file systems and storage management
   - Integration and management of HPC hardware in cloud and distributed environments
   - Scheduling, resource provisioning, and load balancing in large-scale systems
+  - Parallel/networked file system integration with the OS and runtime
+  - OS and runtime system enhancements for accelerators
 
 - Hardware/software co-design for HPC
 
