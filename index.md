@@ -3,7 +3,7 @@ layout: default
 ---
 
 <!-- ![Branching](https://user-images.githubusercontent.com/1593048/236631293-b32345e4-6638-454e-b096-b69022731ccc.png) -->
-
+![Osaka Castle](/assets/images/osaka-castle.jpg)
 
 
 # Introduction
