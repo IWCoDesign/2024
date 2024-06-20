@@ -20,30 +20,16 @@ The primary motivation for the international CoDesign Workshop is to continue to
 
 The focus areas for this workshop include, but are not limited to:
 
-- Data reduction techniques for big data issues in _high-performance computing (HPC)_, _cloud computing_, _Internet-of-Things (IoT)_, _edge computing_, _machine learning and deep learning_, and other big data areas:
-  - Lossy and lossless compression methods
-  - Approximate computation methods
-  - Compressive/compressed sensing methods
-  - Tensor decomposition methods
-  - Data deduplication methods
-  - Domain-specific methods, e.g., structured/unstructured meshes, particles, tensors
-  - Accuracy-guarantee data reduction methods
-  - Optimal design of data reduction methods
-- Data reduction challenges and solutions in observational and experimental environments
-- Mathematical methods with robustly estimable or provable error bounds for both data and quantities of interest
-- Metrics and infrastructures to evaluate reduction methods and assess quality/fidelity of reduced data
-- Uncertainty quantification for reduction methods/models/representations
-- Benchmark applications and datasets for big data reduction 
-- Data analysis and visualization techniques leveraging reduced data
-- Characterizing the impact of data reduction techniques on applications
-- Hardware-software co-design of data reduction
-- Trade-offs between accuracy and performance on emerging computing hardware and platforms
-- Resource-constrained and/or time-constrained data reduction methods
-- Software, tools, and programming models for managing reduced data
-- Runtime systems and supports for data reduction
-- Development of composable data reduction pipelines/workflows
-- Automation of data reduction in scientific workflows
-- Data reduction challenges and solutions in observational and experimental environments
+- Algorithms
+  - Algorithms for numerical methods and algebraic systems
+  - Data-intensive parallel algorithms
+  - Energy- and power-efficient algorithms
+  - Fault-tolerant algorithms
+  - Uncertainty quantification methods
+  - Machine learning algorithms
+- Applications
+- Hardware/software co-design for HPC
+- Systems
 
 # Workshop Program
 TBD
