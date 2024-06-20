@@ -12,7 +12,7 @@ As the power of modern supercomputing systems continues to advance at an excitin
 
 Co-design, in the most basic sense, engages the necessary collaborations between hardware designers, computer scientists, applied mathematicians, and computational science experts in multiple application domains to carry out the essential interdisciplinary research that will enable harvesting in a timely way the scientific and technological benefits as HPC hardware moves forward to extreme scales. 
 
-Following the successes of CoDesign 2011 through 2023, the 2024 International Workshop on CoDesign will be held on December 19-20, 2024 in Osaka, Japan.
+Following the successes of CoDesign 2011 through 2023, the 14th International Workshop on CoDesign will be held on December 19-20, 2024 in Osaka, Japan.
 
 The primary motivation for the international CoDesign Workshop is to continue to enable productive and timely interdisciplinary discussions with focus on stimulating progress in domain applications that engage extreme-scale computing and modern big data problems. This will feature new challenges and opportunities encountered in the development of numerical simulation software needed for computing at the extreme scale. By gathering insights from successful experiences in petascale simulation applications, it is hoped that this workshop will help optimize a converged co-design path toward computing at the extreme scale and associated big data challenges.
 
