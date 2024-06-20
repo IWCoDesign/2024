@@ -8,15 +8,13 @@ layout: default
 
 # Introduction
 
-Today's modern applications are producing too large volumes of data to be stored, processed, or transferred efficiently. Data reduction is becoming an indispensable technique in many domains because it can offer a great capability to reduce the data size by one or even two orders of magnitude, significantly saving the memory/storage space, mitigating the I/O burden, reducing communication time, and improving the energy/power efficiency in various parallel and distributed environments, such as high-performance computing (HPC), cloud computing, edge computing, and Internet-of-Things (IoT). An HPC system, for instance, is expected to have a computational capability of <img src="https://render.githubusercontent.com/render/math?math=10^{18}"> floating-point operations per second, and large-scale HPC scientific applications may generate vast volumes of data (several orders of magnitude larger than the available storage space) for post-anlaysis.  Moreover, runtime memory footprint and communication could be non-negligible bottlenecks of current HPC systems.
+As the power of modern supercomputing systems continues to advance at an exciting pace forward to extreme scales, it is quite clear that the associated software development challenges are also increasingly formidable.  On the emerging architectures, memory and data motion present increasingly serious bottlenecks as the required low-power consumption requirements lead to systems with significant restrictions on available memory and communications bandwidth. Consequently, computational science experts in multiple application domains will need to re-visit key application algorithms and solvers – with the likelihood that new capabilities will be demanded in order to keep up with the dramatic architectural changes that accompany the impressive increases in compute power.  
 
-Tackling the big data reduction research requires expertise from computer science, mathematics, and application domains to study the problem holistically, and develop solutions and harden software tools that can be used by production applications. Specifically, the big-data computing community needs to understand a clear yet complex relationship between application design, data analysis and reduction methods, programming models, system software, hardware, and other elements of a next-generation large-scale computing infrastructure, especially given constraints on applicability, fidelity, performance portability, and energy efficiency. New data reduction techniques also need to be explored and developed continuously to suit emerging applications and diverse use cases.
+Co-design, in the most basic sense, engages the necessary collaborations between hardware designers, computer scientists, applied mathematicians, and computational science experts in multiple application domains to carry out the essential interdisciplinary research that will enable harvesting in a timely way the scientific and technological benefits as HPC hardware moves forward to extreme scales. 
 
-There are at least three significant research topics that the community is striving to answer: (1) whether several orders of magnitude of data reduction is possible for extreme-scale sciences; (2) understanding the trade-off between the performance and accuracy of data reduction; and (3) solutions to effectively reduce data size while preserving the information inside the big datasets. 
+Following the successes of CoDesign 2011 through 2023, the fourteenth international workshop will be held on November 9-11, 2024 in Osaka, Japan. The CoDesign workshop became an official part of HPC China in 2024 -- as one of most important international events of the largest annual domestic conferences on HPC in China.  
 
-The goal of this workshop is to provide a focused venue for researchers in all aspects of data reduction in all related communities to present their research results, exchange ideas, identify new research directions, and foster new collaborations within the community.
-
-<em>Please note this year’s IEEE BigData conference and IWBDR workshop will be held in Sorrento, Italy, and **in-person** attendance is required. </em>
+The primary motivation for the international CoDesign Workshop is to continue to enable productive and timely interdisciplinary discussions with focus on stimulating progress in domain applications that engage extreme-scale computing and modern big data problems. This will feature new challenges and opportunities encountered in the development of numerical simulation software needed for computing at the extreme scale. By gathering insights from successful experiences in petascale simulation applications, it is hoped that this workshop will help optimize a converged co-design path toward computing at the extreme scale and associated big data challenges.
 
 # Submissions
 
@@ -74,26 +72,15 @@ All papers accepted for this workshop will be published in the Workshop Proceedi
 
 # Organizers
 
-### Program Chairs
-* Kai Zhao, _Florida State University_
-* Sian Jin, _Temple University_
-* Jieyang Chen, _University of Alabama at Birmingham_
+### Organization Committee
+* Dr. Jack Dongarra (chair), _University of Tennessee_
+* Dr. Guangming Tan (co-chair), _Chinese Academy of Sciences_
+* Dr. Prasanna Balaprakash, _Oak Ridge National Laboratory_
+* Dr. Scott Klasky, _Oak Ridge National Laboratory_
+* Dr. Dingwen Tao, _Chinese Academy of Sciences_
+
 
 ### Web Chair
-* Longtao Zhang, _Florida State University_
+* Fanjiang Ye, _Indiana University_
 
-### Steering Committee
-* Dingwen Tao, _Indiana University_
-* Sheng Di, _Argonne National Laboratory_
-* Xin Liang, _University of Kentucky_
 
-### Program Committee (Planned)
-
-* Shaomeng Li, _National Center for Atmospheric Research_
-* Xiaodong Yu, _Argonne National Laboratory_
-* Jiannan Tian, _Indiana University_
-* Jinyang Liu, _University of California, Riverside_
-* Chengming Zhang, _Indiana University_
-* Yafan Huang, _University of Iowa_
-* Robert Underwood, _Argonne National Laboratory_
-* Chengshuo Xu, _University of California, Riverside_
