@@ -32,20 +32,21 @@ The focus areas for this workshop include, but are not limited to:
   - Life Sciences: Bioinformatics and computational biology
   - Earth and Environmental Sciences: Computational earth and atmospheric sciences
   - Physical Sciences and Engineering: Computational materials science and engineering, computational astrophysics/astronomy, chemistry, and physics, and computational fluid dynamics and mechanics
-  - Social Sciences: Computation and data enabled social science
-  - Industrial and Engineering Applications: Computational design optimization for aerospace, energy, manufacturing, and industrial applications
+  - Accelerated Physics: Particle accelerator simulations, high-energy physics simulations and accelerated plasma physics  
 
 - Systems
   - Energy-efficient and power-aware system designs
   - Fault-tolerant and resilient system architectures
   - Data compression and storage optimization techniques
   - High-performance file systems and storage management
-  - Integration and management of HPC hardware in cloud and distributed environments
   - Scheduling, resource provisioning, and load balancing in large-scale systems
-  - Parallel/networked file system integration with the OS and runtime
-  - OS and runtime system enhancements for accelerators
 
 - Hardware/software co-design for HPC
+  - Co-design of software algorithms and system architectures for performance optimization
+  - Integration and management of HPC hardware in cloud and distributed environments
+  - Parallel/networked file system integration with the OS and runtime
+  - System software for reducing energy and data movement
+  - Collaborative design and integration of hardware and software for energy-efficient computing
 
 
 # Workshop Program
