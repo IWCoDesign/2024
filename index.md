@@ -68,7 +68,7 @@ TBD
 * Dr. Weile Jia, _Chinese Academy of Sciences_
 * Dr. Scott Klasky, _Oak Ridge National Laboratory_
 * Dr. Lijun Liu, _Osaka University_
-* Dr. Dingwen Tao, _Chinese Academy of Sciences_
+* Dr. Dingwen Tao, _Indiana University_
 
 
 ### Web Chair
