@@ -61,16 +61,16 @@ TBD
 # Organizers
 
 ### Organization Committee
-* Dr. Jack Dongarra (chair), _University of Tennessee_
-* Dr. Guangming Tan (co-chair), _Chinese Academy of Sciences_
-* Dr. Prasanna Balaprakash, _Oak Ridge National Laboratory_
-* Dr. Sheng Di, _Argonne National Laboratory_
-* Dr. Torsten Hoefler, _ETH Zurich_
-* Dr. Weile Jia, _Chinese Academy of Sciences_
-* Dr. Scott Klasky, _Oak Ridge National Laboratory_
-* Dr. Lijun Liu, _Osaka University_
-* Dr. Kentaro Sano, _RIKEN_
-* Dr. Dingwen Tao, _Indiana University_
+* Dr. Jack Dongarra (chair), _University of Tennessee, U.S._
+* Dr. Guangming Tan (co-chair), _Chinese Academy of Sciences, China_
+* Dr. Prasanna Balaprakash, _Oak Ridge National Laboratory, U.S._
+* Dr. Sheng Di, _Argonne National Laboratory, U.S._
+* Dr. Torsten Hoefler, _ETH Zurich, Switzerland_
+* Dr. Weile Jia, _Chinese Academy of Sciences, China_
+* Dr. Scott Klasky, _Oak Ridge National Laboratory, U.S._
+* Dr. Lijun Liu, _Osaka University, Japan_
+* Dr. Kentaro Sano, _RIKEN, Japan_
+* Dr. Dingwen Tao, _Indiana University, U.S._
 
 
 ### Web Chair
