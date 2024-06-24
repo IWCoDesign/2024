@@ -65,9 +65,11 @@ TBD
 * Dr. Guangming Tan (co-chair), _Chinese Academy of Sciences_
 * Dr. Prasanna Balaprakash, _Oak Ridge National Laboratory_
 * Dr. Sheng Di, _Argonne National Laboratory_
+* Dr. Torsten Hoefler, _ETH Zurich_
 * Dr. Weile Jia, _Chinese Academy of Sciences_
 * Dr. Scott Klasky, _Oak Ridge National Laboratory_
 * Dr. Lijun Liu, _Osaka University_
+* Dr. Kentaro Sano, _RIKEN_
 * Dr. Dingwen Tao, _Indiana University_
 
 
