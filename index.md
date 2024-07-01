@@ -74,6 +74,6 @@ TBD
 
 
 ### Web Chair
-* Fanjiang Ye, _Indiana University_
+* Fanjiang Ye, _Indiana University, U.S._
 
 
