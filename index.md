@@ -66,8 +66,9 @@ TBD
 * Dr. Sheng Di, _Argonne National Laboratory, U.S._
 * Dr. Torsten Hoefler, _ETH Zurich, Switzerland_
 * Dr. Weile Jia, _Chinese Academy of Sciences, China_
+* Dr. Erwin Laure, _Max Planck Computing and Data Facility, Germany_
 * Dr. Lijun Liu, _Osaka University, Japan_
-* Dr. Bernd Mohr, _Jülich Supercomputing Centre, German_
+* Dr. Bernd Mohr, _Jülich Supercomputing Centre, Germany_
 * Dr. Kentaro Sano, _RIKEN, Japan_
 * Dr. Thomas C. Schulthess, _Swiss National Supercomputing Centre, Switzerland_
 * Dr. Dingwen Tao, _Chinese Academy of Sciences, China_
