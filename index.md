@@ -64,12 +64,15 @@ TBD
 * Dr. Jack Dongarra (chair), _University of Tennessee, U.S._
 * Dr. Guangming Tan (co-chair), _Chinese Academy of Sciences, China_
 * Dr. Sheng Di, _Argonne National Laboratory, U.S._
+* Dr. Murali Krishna Emani, _Argonne National Laboratory, U.S._
 * Dr. Torsten Hoefler, _ETH Zurich, Switzerland_
 * Dr. Weile Jia, _Chinese Academy of Sciences, China_
 * Dr. Erwin Laure, _Max Planck Computing and Data Facility, Germany_
 * Dr. Lijun Liu, _Osaka University, Japan_
-* Dr. Bernd Mohr, _Jülich Supercomputing Centre, Germany_
 * Dr. Kentaro Sano, _RIKEN, Japan_
+* Dr. Kento Sato, _RIKEN, Japan_
+* Dr. Martin Schulz, _Technical University of Munich, Germany_
+* Dr. Gerhard Wellein, _University of Erlangen–Nuremberg, Germany_
 * Dr. Thomas C. Schulthess, _Swiss National Supercomputing Centre, Switzerland_
 * Dr. Dingwen Tao, _Chinese Academy of Sciences, China_
 
