@@ -52,7 +52,10 @@ The focus areas for this workshop include, but are not limited to:
 # Workshop Program
 TBD
 
-# Invited Speakers
+# Keynote Speaker
+* Dr. William M. Tang, _Princeton University, U.S._
+
+# Invited Speaker
 * Dr. Torsten Hoefler, _ETH Zurich, Switzerland_
 * Dr. Murali Krishna Emani, _Argonne National Laboratory, U.S._
 * Dr. Pete Beckman, _Argonne National Laboratory, U.S._ 
@@ -62,9 +65,6 @@ TBD
 * Dr. Martin Schulz, _Technical University of Munich, Germany_
 * Dr. Gerhard Wellein, _University of Erlangen–Nuremberg, Germany_
 * Dr. Thomas C. Schulthess, _Swiss National Supercomputing Centre, Switzerland_
-
-# Keynote Speakers
-* Dr. William M. Tang, _Princeton University, U.S._
 
 # Organizers
 
