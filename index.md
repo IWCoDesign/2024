@@ -55,7 +55,7 @@ TBD
 # Invited Speakers
 * Dr. Torsten Hoefler, _ETH Zurich, Switzerland_
 * Dr. Murali Krishna Emani, _Argonne National Laboratory, U.S._
-* Pete Beckman, _Argonne National Laboratory, U.S._ 
+* Dr. Pete Beckman, _Argonne National Laboratory, U.S._ 
 * Dr. Erwin Laure, _Max Planck Computing and Data Facility, Germany_
 * Dr. Kentaro Sano, _RIKEN, Japan_
 * Dr. Kento Sato, _RIKEN, Japan_
@@ -64,7 +64,7 @@ TBD
 * Dr. Thomas C. Schulthess, _Swiss National Supercomputing Centre, Switzerland_
 
 # Keynote Speakers
-* William M. Tang, _Princeton University, U.S._
+* Dr. William M. Tang, _Princeton University, U.S._
 
 # Organizers
 
