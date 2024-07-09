@@ -59,6 +59,7 @@ TBD
 * Dr. Torsten Hoefler, _ETH Zurich, Switzerland_
 * Dr. Murali Krishna Emani, _Argonne National Laboratory, U.S._
 * Dr. Pete Beckman, _Argonne National Laboratory, U.S._ 
+* Dr. Kesheng John Wu, _Lawrence Berkeley National Laboratory, U.S._
 * Dr. Erwin Laure, _Max Planck Computing and Data Facility, Germany_
 * Dr. Guillaume Pallez, _INRIA, French_
 * Dr. Kentaro Sano, _RIKEN, Japan_
