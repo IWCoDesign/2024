@@ -66,11 +66,8 @@ TBD
 * Dr. Kento Sato, _RIKEN, Japan_
 * Dr. Martin Schulz, _Technical University of Munich, Germany_
 * Dr. Thomas C. Schulthess, _Swiss National Supercomputing Centre, Switzerland_
-<<<<<<< HEAD
 * Dr. Felix Wolf, _TU Darmstadt, Germany_
 * Dr. Gerhard Wellein, _University of Erlangen–Nuremberg, Germany_
-=======
->>>>>>> d856c3214531c10eaf2435a5e73ae2d9c1dea57f
 * Dr. Kesheng John Wu, _Lawrence Berkeley National Laboratory, U.S._
 
 
