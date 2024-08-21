@@ -57,6 +57,7 @@ TBD
 
 # Invited Speaker
 * Dr. Pete Beckman, _Argonne National Laboratory, U.S._
+* Franck Cappello, _Argonne National Laboratory, U.S._
 * Dr. Murali Krishna Emani, _Argonne National Laboratory, U.S._
 * Dr. Georg Hager, _Erlangen National High Performance Computing Center, Germany_
 * Dr. Torsten Hoefler, _ETH Zurich, Switzerland_
