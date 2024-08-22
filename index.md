@@ -56,7 +56,7 @@ TBD
 * Dr. William M. Tang, _Princeton University, U.S._
 
 # Invited Speaker
-* Dr. Pete Beckman, _Argonne National Laboratory, U.S._
+* Dr. Pete Beckman, _Northwestern University, U.S._
 * Dr. Franck Cappello, _Argonne National Laboratory, U.S._
 * Dr. Murali Krishna Emani, _Argonne National Laboratory, U.S._
 * Dr. Georg Hager, _Erlangen National High Performance Computing Center, Germany_
