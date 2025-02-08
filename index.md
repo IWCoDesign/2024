@@ -73,7 +73,7 @@ TBD
 * Dr. Kesheng John Wu, _Lawrence Berkeley National Laboratory, U.S._
 
 
-# Organizers
+# Organization Committee
 
 ### General Chair
 * Dr. Jack Dongarra, _University of Tennessee, U.S._
@@ -86,9 +86,10 @@ TBD
 ### Executive Chair
 * Dr. Dingwen Tao, _Chinese Academy of Sciences, China_
 
+### Local Chair
+* Dr. Lijun Liu, _Osaka University, Japan_
+
 ### Web Chair
 * Fanjiang Ye, _Indiana University, U.S._
 
-### Local Chair
-* Dr. Lijun Liu, _Osaka University, Japan_
 
