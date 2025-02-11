@@ -58,7 +58,6 @@ TBD
 # Invited Speaker
 * Dr. Pete Beckman, _Northwestern University, U.S._
 * Dr. Franck Cappello, _Argonne National Laboratory, U.S._
-* Dr. Murali Krishna Emani, _Argonne National Laboratory, U.S._
 * Dr. Georg Hager, _Erlangen National High Performance Computing Center, Germany_
 * Dr. Torsten Hoefler, _ETH Zurich, Switzerland_
 * Dr. Weile Jia, _Chinese Academy of Sciences, China_
@@ -66,6 +65,7 @@ TBD
 * Dr. Guillaume Pallez, _INRIA, French_
 * Dr. Kentaro Sano, _RIKEN, Japan_
 * Dr. Kento Sato, _RIKEN, Japan_
+* Dr. Xian-He Sun, _Illinois Institute of Technology, US_
 * Dr. Martin Schulz, _Technical University of Munich, Germany_
 * Dr. Thomas C. Schulthess, _Swiss National Supercomputing Centre, Switzerland_
 * Dr. Felix Wolf, _TU Darmstadt, Germany_
