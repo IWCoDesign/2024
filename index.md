@@ -50,28 +50,49 @@ The focus areas for this workshop include, but are not limited to:
 
 
 # Workshop Program
-TBD
+### 2025.7.8
+* 12:00-17:00 Workshop Registration  
+
+### 2025.7.9
+* 12:00 - 14:00 Welcome Lunch  
+* 14:00 - 15:00 Keynote I  
+* 15:00 - 17:45 Invited Talks  
+* 18:00 - 20:00 Reception Banquet  
+
+### 2025.7.10
+* 9:00 - 10:00 Keynote II  
+* 10:00 - 12:15 Invited Talks  
+* 12:15 - 14:00 Lunch  
+* 14:00 - 17:15 Invited Talks  
+* 18:00 - 20:00 Dinner  
+
+### 2025.7.11
+* 9:00 - 10:00 KeyNote III  
+* 10:00 - 12:15 Invited Talks  
+* 12:15 - 14:00 Lunch  
+* 14:00 - 17:00 Panel  
+
+### 2025.7.12
+* Leaving Workshop
 
 # Keynote Speaker
 * Dr. William M. Tang, _Princeton University, U.S._
+* Dr. Depei Qian, _Beihang University, China_
+* Dr. D.K. Panda, _The Ohio State University, U.S._
+* Dr. Xian-He Sun, _Illinois Institute of Technology, US_
 
 # Invited Speaker
-* Dr. Pete Beckman, _Northwestern University, U.S._
-* Dr. Franck Cappello, _Argonne National Laboratory, U.S._
-* Dr. Georg Hager, _Erlangen National High Performance Computing Center, Germany_
-* Dr. Torsten Hoefler, _ETH Zurich, Switzerland_
+* Dr. Mathis Bode,  _Jülich Supercomputing Centre, Germany_
+* Dr. Suren Byna, _The Ohio State University, U.S._
+* Dr. Murali Krishna Emani, _Argonne National Laboratory, U.S._
 * Dr. Weile Jia, _Chinese Academy of Sciences, China_
-* Dr. Erwin Laure, _Max Planck Computing and Data Facility, Germany_
 * Dr. Guillaume Pallez, _INRIA, French_
+* Dr. Manish Parashar, _University of Utah, U.S._
 * Dr. Kentaro Sano, _RIKEN, Japan_
 * Dr. Kento Sato, _RIKEN, Japan_
-* Dr. Xian-He Sun, _Illinois Institute of Technology, US_
-* Dr. Martin Schulz, _Technical University of Munich, Germany_
 * Dr. Thomas C. Schulthess, _Swiss National Supercomputing Centre, Switzerland_
+* Dr. Leon Song, _Together AI, U.S._
 * Dr. Felix Wolf, _TU Darmstadt, Germany_
-* Dr. Gerhard Wellein, _University of Erlangen–Nuremberg, Germany_
-* Dr. Kesheng John Wu, _Lawrence Berkeley National Laboratory, U.S._
-
 
 # Organization Committee
 
@@ -89,7 +110,12 @@ TBD
 ### Local Chair
 * Dr. Lijun Liu, _Osaka University, Japan_
 
+### Registration Chair
+* Wenjing Huang, _Chinese Academy of Sciences, China_
+
 ### Web Chair
 * Fanjiang Ye, _Indiana University, U.S._
+* Yida Gu, _Chinese Academy of Sciences, China_
 
-
+# Sponsor
+<img src="https://github.com/user-attachments/assets/1f5a90a5-f561-47ff-9a3d-ec49589ea771" alt="logo" width="400"/>
